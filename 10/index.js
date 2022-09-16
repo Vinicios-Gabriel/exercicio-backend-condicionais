@@ -9,5 +9,5 @@ if (caractere === "A" || caractere === "E" || caractere === "I" || caractere ===
 } else {
     console.log("consoante")
 }
-
+//
 

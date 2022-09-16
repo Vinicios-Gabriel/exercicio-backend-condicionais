@@ -16,4 +16,4 @@ if (diaDaSemana == 1) {
     console.log("domingo")
 } else {
     console.log("O dia da semana informado não é válido.")
-}
+}//

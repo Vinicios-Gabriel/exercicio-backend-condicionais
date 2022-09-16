@@ -1,7 +1,7 @@
 const ladoA = 3;
 const ladoB = 3;
 
-//seu código aqui
+
 if (ladoA == 0 && ladoB == 0) {
     console.log("Bucha de Branco")
 } else if (ladoA == 1 && ladoB == 1) {

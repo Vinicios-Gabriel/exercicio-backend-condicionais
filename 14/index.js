@@ -1,4 +1,4 @@
-//quantidade de água ingerida em litro.
+
 const quantidadeDeAguaIngerida = 2;
 
 if (quantidadeDeAguaIngerida < 1.5) {

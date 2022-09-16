@@ -10,3 +10,4 @@ if (nota >= 9 && nota <= 10) {
 } else {
     console.log("O estudando obteve conceito E")
 }
+//
